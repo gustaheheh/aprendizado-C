@@ -71,7 +71,7 @@ int main()
             break;
         
         case 2:
-            printf("O resultado da Subtraão entre %d e %d é %d", numero1, numero2, numero1-numero2);
+            printf("O resultado da Subtração entre %d e %d é %d", numero1, numero2, numero1-numero2);
             break;
         
         case 3:
